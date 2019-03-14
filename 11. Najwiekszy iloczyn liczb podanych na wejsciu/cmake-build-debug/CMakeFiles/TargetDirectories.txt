@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/11. Najwiekszy iloczyn liczb podanych na wejsciu/cmake-build-debug/CMakeFiles/11__Najwiekszy_iloczyn_liczb_podanych_na_wejsciu.dir
+C:/Users/marci/Desktop/Programy w C++/11. Najwiekszy iloczyn liczb podanych na wejsciu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/11. Najwiekszy iloczyn liczb podanych na wejsciu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

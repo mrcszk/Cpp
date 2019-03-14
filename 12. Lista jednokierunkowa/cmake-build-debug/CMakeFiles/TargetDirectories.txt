@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/12. Lista jednokierunkowa/cmake-build-debug/CMakeFiles/12__Lista_jednokierunkowa.dir
+C:/Users/marci/Desktop/Programy w C++/12. Lista jednokierunkowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/12. Lista jednokierunkowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
