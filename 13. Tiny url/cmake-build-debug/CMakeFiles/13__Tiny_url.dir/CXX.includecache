@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/13. Tiny url/TinyUrl.cpp
+TinyUrl.h
+C:/Users/marci/Desktop/Programy w C++/13. Tiny url/TinyUrl.h
+
+C:/Users/marci/Desktop/Programy w C++/13. Tiny url/TinyUrl.h
+iostream
+-
+string
+-
+memory
+-
+

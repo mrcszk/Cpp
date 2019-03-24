@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/SmartTree.cpp
+SmartTree.h
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/SmartTree.h
+iostream
+-
+ostream
+-
+string
+-
+memory
+-
+regex
+-
+
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/SmartTree.h
+iostream
+-
+ostream
+-
+string
+-
+memory
+-
+

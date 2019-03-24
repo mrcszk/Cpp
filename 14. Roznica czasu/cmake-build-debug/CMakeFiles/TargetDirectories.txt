@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/cmake-build-debug/CMakeFiles/14__Roznica_czasu.dir
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/cmake-build-debug/CMakeFiles/15__Zlicznie_obiektow.dir
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

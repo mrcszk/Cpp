@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/cmake-build-debug/CMakeFiles/16__Drzewa_binarne.dir
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/16. Drzewa binarne/cmake-build-debug/CMakeFiles/rebuild_cache.dir

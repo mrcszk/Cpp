@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/CCounter.cpp
+CCounter.h
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/CCounter.h
+
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/CCounter.h
+string
+-
+memory
+-
+map
+-
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/main.cpp
+CCounter.h
+C:/Users/marci/Desktop/Programy w C++/15. Zlicznie obiektow/CCounter.h
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/MinimalTimeDifference.cpp
+MinimalTimeDifference.h
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/MinimalTimeDifference.h
+
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/MinimalTimeDifference.h
+vector
+-
+sstream
+-
+regex
+-
+cmath
+-
+string
+-
+regex
+-
+iostream
+-
+cstdlib
+-
+
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/main.cpp
+MinimalTimeDifference.h
+C:/Users/marci/Desktop/Programy w C++/14. Roznica czasu/MinimalTimeDifference.h
+
