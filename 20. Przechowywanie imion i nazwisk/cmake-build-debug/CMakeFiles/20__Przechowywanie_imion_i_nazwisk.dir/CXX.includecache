@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/Name.h
+iostream
+-
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/main.cpp
+iostream
+-
+Name.h
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/Name.h
+

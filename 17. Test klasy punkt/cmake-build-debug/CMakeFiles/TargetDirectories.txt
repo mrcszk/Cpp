@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/cmake-build-debug/CMakeFiles/17__Test_klasy_punkt.dir
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/cmake-build-debug/CMakeFiles/edit_cache.dir

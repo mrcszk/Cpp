@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/cmake-build-debug/CMakeFiles/20__Przechowywanie_imion_i_nazwisk.dir
+C:/Users/marci/Desktop/Programy w C++/20. Przechowywanie imion i nazwisk/cmake-build-debug/CMakeFiles/edit_cache.dir

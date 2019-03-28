@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/Point.h
+
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/main.cpp
+memory
+-
+vector
+-
+iostream
+-
+sstream
+-
+Point.h
+C:/Users/marci/Desktop/Programy w C++/17. Test klasy punkt/Point.h
+

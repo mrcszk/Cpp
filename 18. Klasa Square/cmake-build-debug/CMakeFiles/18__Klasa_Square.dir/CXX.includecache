@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/18. Klasa Square/Point.h
+
+C:/Users/marci/Desktop/Programy w C++/18. Klasa Square/Square.h
+Point.h
+C:/Users/marci/Desktop/Programy w C++/18. Klasa Square/Point.h
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/18. Klasa Square/main.cpp
+iostream
+-
+Square.h
+C:/Users/marci/Desktop/Programy w C++/18. Klasa Square/Square.h
+
