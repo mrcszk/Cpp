@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.cpp
+Child.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.h
+
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.h
+iostream
+-
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Parent.cpp
+Parent.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Parent.h
+Child.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.h
+
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Parent.h
+iostream
+-
+Child.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.h
+
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/main.cpp
+iostream
+-
+Parent.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Parent.h
+Child.h
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/Child.h
+

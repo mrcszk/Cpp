@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/cmake-build-debug/CMakeFiles/21__Rodzic_i_dziecko.dir
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/21. Rodzic i dziecko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
