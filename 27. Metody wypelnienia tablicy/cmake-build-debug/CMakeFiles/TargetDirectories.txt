@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/cmake-build-debug/CMakeFiles/27__Metody_wypelnienia_tablicy.dir
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

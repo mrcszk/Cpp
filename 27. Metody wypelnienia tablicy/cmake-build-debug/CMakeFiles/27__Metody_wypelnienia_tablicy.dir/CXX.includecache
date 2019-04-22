@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/FillingVector.h
+vector
+-
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/main.cpp
+iostream
+-
+FillingVector.h
+C:/Users/marci/Desktop/Programy w C++/27. Metody wypelnienia tablicy/FillingVector.h
+

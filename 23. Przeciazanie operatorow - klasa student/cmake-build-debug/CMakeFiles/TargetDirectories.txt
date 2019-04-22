@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/cmake-build-debug/CMakeFiles/rebuild_cache.dir

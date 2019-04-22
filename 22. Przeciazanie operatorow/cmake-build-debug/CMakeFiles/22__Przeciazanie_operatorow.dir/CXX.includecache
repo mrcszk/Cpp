@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/22. Przeciazanie operatorow/Point.cpp
+Point.h
+C:/Users/marci/Desktop/Programy w C++/22. Przeciazanie operatorow/Point.h
+iomanip
+-
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/22. Przeciazanie operatorow/Point.h
+iostream
+-
+ostream
+-
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/22. Przeciazanie operatorow/main.cpp
+iostream
+-
+Point.h
+C:/Users/marci/Desktop/Programy w C++/22. Przeciazanie operatorow/Point.h
+

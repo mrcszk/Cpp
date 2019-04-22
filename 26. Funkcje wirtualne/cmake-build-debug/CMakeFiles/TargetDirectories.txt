@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/26. Funkcje wirtualne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/Desktop/Programy w C++/26. Funkcje wirtualne/cmake-build-debug/CMakeFiles/26__Funkcje_wirtualne.dir
+C:/Users/marci/Desktop/Programy w C++/26. Funkcje wirtualne/cmake-build-debug/CMakeFiles/edit_cache.dir

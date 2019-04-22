@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/Student.h
+StudyYear.h
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/StudyYear.h
+string
+-
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/StudentRepository.h
+iostream
+-
+string
+-
+vector
+-
+Student.h
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/Student.h
+
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/StudyYear.h
+string
+-
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/main.cpp
+iostream
+-
+StudyYear.h
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/StudyYear.h
+Student.h
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/Student.h
+StudentRepository.h
+C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/StudentRepository.h
+

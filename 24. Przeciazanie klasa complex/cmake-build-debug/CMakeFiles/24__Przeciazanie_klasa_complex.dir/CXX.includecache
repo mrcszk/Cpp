@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/24. Przeciazanie klasa complex/Complex.cpp
+Complex.h
+C:/Users/marci/Desktop/Programy w C++/24. Przeciazanie klasa complex/Complex.h
+
+C:/Users/marci/Desktop/Programy w C++/24. Przeciazanie klasa complex/Complex.h
+iostream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/28. Metody skladowe/cmake-build-debug/CMakeFiles/28__Metody_skladowe.dir
+C:/Users/marci/Desktop/Programy w C++/28. Metody skladowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/28. Metody skladowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

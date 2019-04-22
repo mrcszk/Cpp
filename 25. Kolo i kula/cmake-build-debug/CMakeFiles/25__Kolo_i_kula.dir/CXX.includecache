@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kolo.cpp
+Kolo.h
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kolo.h
+
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kolo.h
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kula.cpp
+Kula.h
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kula.h
+
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kula.h
+Kolo.h
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kolo.h
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/main.cpp
+iostream
+-
+Kula.h
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kula.h
+Kolo.h
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/Kolo.h
+

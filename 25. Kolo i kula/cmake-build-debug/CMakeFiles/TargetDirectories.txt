@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/cmake-build-debug/CMakeFiles/25__Kolo_i_kula.dir
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/25. Kolo i kula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
