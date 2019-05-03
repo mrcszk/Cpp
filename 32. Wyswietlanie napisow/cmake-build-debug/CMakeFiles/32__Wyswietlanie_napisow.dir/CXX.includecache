@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/DVD.h
+string
+-
+vector
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/main.cpp
+iostream
+-
+Exceptions/Exception.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
+DVD.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/DVD.h
+iostream
+-
+string
+-
+

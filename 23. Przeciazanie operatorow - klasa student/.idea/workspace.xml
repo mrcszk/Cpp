@@ -69,6 +69,25 @@
       <change beforePath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Student.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.h" beforeDir="false" afterPath="$PROJECT_DIR$/Student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentRepository.h" beforeDir="false" afterPath="$PROJECT_DIR$/StudentRepository.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/23__Przeciazanie_operatorow___klasa_student.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/Student.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/Student.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/StudentRepository.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/StudentRepository.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/23__Przeciazanie_operatorow___klasa_student.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,14 +101,18 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="163">
+              <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -97,11 +120,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wrongStudent.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Student.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="383">
+              <caret line="80" column="1" lean-forward="true" selection-start-line="61" selection-end-line="80" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -109,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Student.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="23">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding>
                 <element signature="e#169#191#0" expanded="true" />
               </folding>
@@ -121,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StudyYear.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="420">
               <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
             </state>
           </provider>
@@ -142,17 +174,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StudentRepository.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="480">
               <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StudentRepository.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="71" />
+            <state relative-caret-position="220">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="e#188#207#0" expanded="true" />
               </folding>
@@ -168,13 +200,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Student.cpp" />
-        <option value="$PROJECT_DIR$/Student.h" />
         <option value="$PROJECT_DIR$/StudyYear.h" />
         <option value="$PROJECT_DIR$/StudyYear.cpp" />
-        <option value="$PROJECT_DIR$/StudentRepository.h" />
         <option value="$PROJECT_DIR$/StudentRepository.cpp" />
+        <option value="$PROJECT_DIR$/StudentRepository.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/wrongStudent.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/wtongStudent.h" />
+        <option value="$PROJECT_DIR$/wrongStudent.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Student.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Student.cpp" />
       </list>
     </option>
   </component>
@@ -248,17 +284,18 @@
       <workItem from="1555001540630" duration="5000" />
       <workItem from="1555394917314" duration="1241000" />
       <workItem from="1555667796813" duration="2244000" />
+      <workItem from="1556605867334" duration="3515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26886000" />
+    <option name="totallyTimeSpent" value="30401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25033557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,7 +310,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -298,30 +335,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Student.cpp">
+    <entry file="file://$PROJECT_DIR$/StudyYear.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="420">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student.h">
+    <entry file="file://$PROJECT_DIR$/StudentRepository.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentRepository.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#169#191#0" expanded="true" />
+            <element signature="e#188#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudyYear.cpp">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/wrongStudent.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/wtongStudent.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -335,30 +383,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Student.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="e#169#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="163">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudentRepository.cpp">
+    <entry file="file://$PROJECT_DIR$/Student.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="383">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="61" selection-end-line="80" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StudentRepository.h">
+    <entry file="file://$PROJECT_DIR$/wrongStudent.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="71" />
-          <folding>
-            <element signature="e#188#207#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>

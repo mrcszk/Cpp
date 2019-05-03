@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/31. Student/cmake-build-debug/CMakeFiles/31__Student.dir
+C:/Users/marci/Desktop/Programy w C++/31. Student/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/31. Student/cmake-build-debug/CMakeFiles/rebuild_cache.dir

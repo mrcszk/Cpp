@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/30. PESEL/Pesel.h
+iostream
+-
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/30. PESEL/main.cpp
+iostream
+-
+string
+-
+Pesel.h
+C:/Users/marci/Desktop/Programy w C++/30. PESEL/Pesel.h
+

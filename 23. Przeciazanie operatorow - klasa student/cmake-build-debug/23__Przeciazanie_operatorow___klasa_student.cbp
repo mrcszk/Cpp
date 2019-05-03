@@ -103,6 +103,9 @@
 		<Unit filename="C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/main.cpp">
 			<Option target="23__Przeciazanie_operatorow___klasa_student"/>
 		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/wrongStudent.h">
+			<Option target="23__Przeciazanie_operatorow___klasa_student"/>
+		</Unit>
 		<Unit filename="C:/Users/marci/Desktop/Programy w C++/23. Przeciazanie operatorow - klasa student/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

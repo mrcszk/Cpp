@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -8,13 +8,16 @@
 #include "StudyYear.h"
 #include <string>
 #include <iostream>
+#include "wrongStudent.h"
 using namespace std;
 class Student {
 public:
     string id;
     string first_name;
     string last_name;
+    int age;
     string program;
+
     StudyYear year;
     friend istream& operator>>(istream &is, Student& p);
     friend std::ostream& operator<<(std::ostream &out,  Student const& p);
@@ -22,6 +25,8 @@ public:
 public:
     Student();
     Student(string, string,string,string,StudyYear);
+    Student(string, string,int,string);
+    void checkValid();
 
 
 };
