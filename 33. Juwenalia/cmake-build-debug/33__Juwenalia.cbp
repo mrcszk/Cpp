@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="33__Juwenalia"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33__Juwenalia">
+				<Option output="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug/33__Juwenalia.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 33__Juwenalia"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33__Juwenalia/fast">
+				<Option output="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug/33__Juwenalia.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 33__Juwenalia/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\marci\Desktop\Programy w C++\33. Juwenalia\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Backpack.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Backpack.h">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/beer.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/cookies.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/crisps.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/orangeJuice.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/pepsi.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/plasticCups.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/sausages.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/vodka.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/water.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/wine.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Shop.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Shop.h">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Student.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Student.h">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/main.cpp">
+			<Option target="33__Juwenalia"/>
+		</Unit>
+		<Unit filename="C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

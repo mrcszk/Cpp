@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug/CMakeFiles/33__Juwenalia.dir
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/cmake-build-debug/CMakeFiles/edit_cache.dir

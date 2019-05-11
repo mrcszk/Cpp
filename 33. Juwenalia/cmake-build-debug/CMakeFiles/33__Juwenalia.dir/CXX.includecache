@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Backpack.h
+Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+Eating/orangeJuice.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/orangeJuice.cpp
+iostream
+-
+vector
+-
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/beer.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/cookies.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/crisps.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/orangeJuice.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/pepsi.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/plasticCups.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/sausages.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/vodka.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/water.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/wine.cpp
+../Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+string
+-
+iostream
+-
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Shop.h
+iostream
+-
+random
+-
+Backpack.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Backpack.h
+Student.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Student.h
+Food.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Food.cpp
+Eating/beer.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/beer.cpp
+Eating/cookies.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/cookies.cpp
+Eating/crisps.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/crisps.cpp
+Eating/orangeJuice.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/orangeJuice.cpp
+Eating/pepsi.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/pepsi.cpp
+Eating/plasticCups.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/plasticCups.cpp
+Eating/sausages.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/sausages.cpp
+Eating/vodka.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/vodka.cpp
+Eating/water.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/water.cpp
+Eating/wine.cpp
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Eating/wine.cpp
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Student.h
+Backpack.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Backpack.h
+string.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/string.h
+
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/main.cpp
+iostream
+-
+Student.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Student.h
+Shop.h
+C:/Users/marci/Desktop/Programy w C++/33. Juwenalia/Shop.h
+
