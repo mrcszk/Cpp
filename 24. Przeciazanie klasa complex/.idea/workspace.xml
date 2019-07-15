@@ -67,8 +67,29 @@
       <change beforePath="$PROJECT_DIR$/../08. Tabliczka mnozenia dynamicznie -/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../08. Tabliczka mnozenia dynamicznie -/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/cmake-build-debug/file_zapis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/cmake-build-debug/file_zapis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/16__Drzewa_binarne.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/CMakeFiles/16__Drzewa_binarne.dir/SmartTree.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/CMakeFiles/16__Drzewa_binarne.dir/SmartTree.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/CMakeFiles/16__Drzewa_binarne.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../16. Drzewa binarne/cmake-build-debug/CMakeFiles/16__Drzewa_binarne.dir/vc140.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23. Przeciazanie operatorow - klasa student/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../23. Przeciazanie operatorow - klasa student/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/32__Wyswietlanie_napisow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/DVD.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../32. Wyswietlanie napisow/cmake-build-debug/CMakeFiles/32__Wyswietlanie_napisow.dir/vc140.pdb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="280">
               <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -100,7 +121,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Complex.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
+            <state relative-caret-position="740">
               <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
             </state>
           </provider>
@@ -109,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Complex.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="360">
               <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
@@ -141,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +179,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,17 +218,17 @@
       <updated>1554790138565</updated>
       <workItem from="1554790139779" duration="2861000" />
       <workItem from="1554977450828" duration="597000" />
+      <workItem from="1557571151596" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3458000" />
+    <option name="totallyTimeSpent" value="4057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +259,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="280">
           <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -248,14 +269,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Complex.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="360">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Complex.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
+        <state relative-caret-position="740">
           <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
         </state>
       </provider>

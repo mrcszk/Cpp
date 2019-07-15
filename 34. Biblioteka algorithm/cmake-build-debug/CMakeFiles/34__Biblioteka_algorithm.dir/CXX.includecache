@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/Algorytmy.cpp
+Algorytmy.h
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/Algorytmy.h
+
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/Algorytmy.h
+iostream
+-
+vector
+-
+map
+-
+set
+-
+

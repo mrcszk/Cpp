@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/10. Najwiekszy iloczyn liczb/cmake-build-debug/CMakeFiles/09__Najwiekszy_iloczyn_liczb.dir
+C:/Users/marci/Desktop/Programy w C++/10. Najwiekszy iloczyn liczb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/10. Najwiekszy iloczyn liczb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marci/Desktop/Programy w C++/35. Iteratory/IterableIterator.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/marci/Desktop/Programy w C++/35. Iteratory/ZipperIterator.cpp
+ZipperIterator.h
+C:/Users/marci/Desktop/Programy w C++/35. Iteratory/ZipperIterator.h
+
+C:/Users/marci/Desktop/Programy w C++/35. Iteratory/ZipperIterator.h
+IterableIterator.h
+C:/Users/marci/Desktop/Programy w C++/35. Iteratory/IterableIterator.h
+vector
+-
+iostream
+-
+string
+-
+

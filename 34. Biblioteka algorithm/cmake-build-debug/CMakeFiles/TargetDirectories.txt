@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/cmake-build-debug/CMakeFiles/34__Biblioteka_algorithm.dir
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/34. Biblioteka algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

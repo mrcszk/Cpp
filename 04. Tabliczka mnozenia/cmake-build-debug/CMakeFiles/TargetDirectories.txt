@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/04. Tabliczka mnozenia/cmake-build-debug/CMakeFiles/04__Tabliczka_mnozenia.dir
+C:/Users/marci/Desktop/Programy w C++/04. Tabliczka mnozenia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/04. Tabliczka mnozenia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

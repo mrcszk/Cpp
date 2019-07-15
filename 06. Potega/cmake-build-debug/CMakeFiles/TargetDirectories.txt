@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/06. Potega/cmake-build-debug/CMakeFiles/06__Potega.dir
+C:/Users/marci/Desktop/Programy w C++/06. Potega/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/06. Potega/cmake-build-debug/CMakeFiles/rebuild_cache.dir

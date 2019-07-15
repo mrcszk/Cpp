@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/36. Szablony/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/36. Szablony/cmake-build-debug/CMakeFiles/36__Szablony.dir
+C:/Users/marci/Desktop/Programy w C++/36. Szablony/cmake-build-debug/CMakeFiles/rebuild_cache.dir

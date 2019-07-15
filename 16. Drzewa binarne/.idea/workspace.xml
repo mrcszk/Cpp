@@ -67,6 +67,10 @@
       <change beforePath="$PROJECT_DIR$/../08. Tabliczka mnozenia dynamicznie -/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../08. Tabliczka mnozenia dynamicznie -/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09. Algorytm szyfrujacy Polibiusza/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../15. Zlicznie obiektow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18. Klasa Square/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../25. Kolo i kula/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../26. Funkcje wirtualne/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,28 +85,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="100">
               <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" selection-start-line="20" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-56">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SmartTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1888">
+            <state relative-caret-position="375">
               <caret line="118" selection-start-line="118" selection-end-line="118" />
               <folding>
                 <element signature="e#42#64#0" expanded="true" />
@@ -114,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SmartTree.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="600">
               <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="e#126#145#0" expanded="true" />
@@ -167,7 +168,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../14. Roznica czasu/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nowy plik/CMakeLists.txt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -204,17 +205,17 @@
       <workItem from="1553337374478" duration="2895000" />
       <workItem from="1553417929201" duration="5117000" />
       <workItem from="1553427322254" duration="275000" />
+      <workItem from="1557166206387" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8750000" />
+    <option name="totallyTimeSpent" value="8885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,26 +258,23 @@
     <entry file="file://$PROJECT_DIR$/../14. Roznica czasu/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="-56">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SmartTree.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1888">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="e#42#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SmartTree.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="600">
           <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <element signature="e#126#145#0" expanded="true" />
@@ -284,12 +282,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/../Nowy plik/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
+        <state>
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmartTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#42#64#0" expanded="true" />
           </folding>
         </state>
       </provider>

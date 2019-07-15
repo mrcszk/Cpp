@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/02. Napis wspak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marci/Desktop/Programy w C++/02. Napis wspak/cmake-build-debug/CMakeFiles/02__Silnia_iteracyjnie.dir
+C:/Users/marci/Desktop/Programy w C++/02. Napis wspak/cmake-build-debug/CMakeFiles/edit_cache.dir

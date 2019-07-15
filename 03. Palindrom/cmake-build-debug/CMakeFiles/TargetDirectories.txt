@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/03. Palindrom/cmake-build-debug/CMakeFiles/03__Palindrom.dir
+C:/Users/marci/Desktop/Programy w C++/03. Palindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/03. Palindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

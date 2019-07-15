@@ -6,14 +6,42 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/DVD.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/InvalidSequenceException.h
+Exception.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/NoFileException.h
+Exception.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
+string
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/MovieSubtitles.cpp
+MovieSubtitles.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/MovieSubtitles.h
+Exceptions/NoFileException.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/NoFileException.h
+Exceptions/InvalidSequenceException.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/InvalidSequenceException.h
+fstream
+-
+regex
+-
+sstream
+-
+cmath
+-
+
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/MovieSubtitles.h
 string
 -
 vector
--
-
-C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
-string
 -
 
 C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/main.cpp
@@ -21,8 +49,8 @@ iostream
 -
 Exceptions/Exception.h
 C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/Exceptions/Exception.h
-DVD.h
-C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/DVD.h
+MovieSubtitles.h
+C:/Users/marci/Desktop/Programy w C++/32. Wyswietlanie napisow/MovieSubtitles.h
 iostream
 -
 string

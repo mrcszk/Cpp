@@ -1,3 +1,0 @@
-C:/Users/marci/Desktop/Programy w C++/08. Tabliczka mnozenia dynamicznie -/cmake-build-debug/CMakeFiles/07__Tabliczka_mnozenia_dynamicznie.dir
-C:/Users/marci/Desktop/Programy w C++/08. Tabliczka mnozenia dynamicznie -/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marci/Desktop/Programy w C++/08. Tabliczka mnozenia dynamicznie -/cmake-build-debug/CMakeFiles/rebuild_cache.dir

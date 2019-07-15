@@ -1,0 +1,3 @@
+C:/Users/marci/Desktop/Programy w C++/06.Heurystyka/cmake-build-debug/CMakeFiles/06_Heurystyka.dir
+C:/Users/marci/Desktop/Programy w C++/06.Heurystyka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marci/Desktop/Programy w C++/06.Heurystyka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

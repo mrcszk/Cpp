@@ -47,14 +47,9 @@ int main() {
 
     if(myfile.is_open())
     {
-        char znak;
-
-        while(myfile >> znak)
-        {
-
-            myfilez << v.at(char(tolower(znak))) << " ";
+            myfile << klasa.karoseria << endl
+            klasa.silnik<< endl;
         }
-        myfilez << endl;
     }
     else
         cout << "Nie udało się otworzyć pliku";
